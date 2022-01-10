@@ -16,7 +16,6 @@ aards
 aardt
 aarle
 aaron
-a„ron
 aarse
 aasde
 aasje
@@ -210,7 +209,6 @@ agnes
 agnes
 agnus
 agoge
-„gogo
 agoog
 agora
 agora
@@ -223,21 +221,16 @@ ahold
 ahorn
 ahuis
 aicha
-a„cha
 aidan
 aidas
-a„das
 aijen
 aikes
 aikos
 aimee
-aim„e
-aim„s
 aioli
 airco
 aires
 aisha
-a„sha
 ajour
 ajuin
 ajuus
@@ -265,7 +258,6 @@ alaaf
 alaam
 alain
 alana
-„land
 alans
 alant
 alarm
@@ -318,14 +310,12 @@ allen
 allen
 aller
 alles
-„lles
 allin
 allon
 almas
 almas
 almee
 almen
-alo„s
 alofi
 alofs
 alons
@@ -398,18 +388,14 @@ amros
 amsoi
 amuse
 anaal
-ana„s
-ana„s
 anale
 anand
 ancos
 andel
 ander
-„nder
 andes
 andis
 andra
-andr„
 andys
 anema
 angel
@@ -507,9 +493,6 @@ arian
 arias
 arias
 aride
-ari„l
-ari„r
-ari„r
 aries
 arifs
 arina
@@ -654,13 +637,11 @@ azuki
 azuur
 baadt
 baaij
-ba„ls
 baalt
 baans
 baant
 baard
 baard
-baar„
 baarn
 baars
 baars
@@ -753,7 +734,6 @@ barok
 baron
 barre
 barre
-barr„
 barry
 barse
 barst
@@ -828,7 +808,6 @@ beeld
 beemd
 beemd
 beent
-be„rf
 beers
 beert
 beert
@@ -842,7 +821,6 @@ begon
 behas
 behuw
 beide
-b„„de
 beidt
 beien
 beier
@@ -933,13 +911,10 @@ besse
 besta
 beste
 beste
-b„ste
 bests
-b„tas
 betel
 beten
 beter
-b„ter
 betje
 beton
 betsy
@@ -1040,7 +1015,6 @@ bixby
 bizar
 bizon
 bjorn
-bj„rn
 bkant
 blaag
 blaak
@@ -1056,7 +1030,6 @@ blair
 blanc
 blank
 blans
-blas„
 blauw
 bleef
 bleek
@@ -1066,7 +1039,6 @@ bleij
 blein
 bleke
 blekt
-bl„rt
 bleue
 blief
 bliek
@@ -1135,11 +1107,9 @@ boeit
 boeke
 boekt
 boele
-boel„
 boels
 boent
 boere
-boer„
 boers
 boers
 boert
@@ -1394,7 +1364,6 @@ bryan
 bryce
 bsers
 btjes
-b„ºch
 bucht
 bucks
 budak
@@ -1424,7 +1393,6 @@ bulkt
 bulle
 bully
 bulte
-bult„
 bults
 bulut
 bunde
@@ -1465,12 +1433,9 @@ cacao
 cache
 caddy
 cadet
-c„diz
 cadre
-caf„s
 caine
 cains
-ca„ro
 cajun
 cajun
 cakes
@@ -1509,7 +1474,6 @@ carne
 carol
 caron
 caros
-carr„
 carry
 carte
 carve
@@ -1601,7 +1565,6 @@ cents
 ceram
 ceres
 cesar
-c„sar
 cetin
 ceuta
 cevat
@@ -1642,8 +1605,6 @@ chino
 chips
 chiro
 chloe
-chlo„
-chlo„
 choco
 choke
 chole
@@ -1679,7 +1640,6 @@ cissy
 citer
 citer
 cites
-cit„s
 citys
 civet
 civic
@@ -1703,13 +1663,11 @@ clean
 cleef
 cleos
 clerx
-cl„ve
 click
 cliff
 cliii
 clint
 clips
-clo„s
 cloin
 close
 cloud
@@ -1785,11 +1743,9 @@ comic
 conan
 conen
 conga
-cong„
 congo
 conny
 conor
-cont„
 conti
 conto
 conus
@@ -1807,7 +1763,6 @@ coret
 corfu
 corgi
 corle
-corn„
 corps
 corry
 corsa
@@ -1821,12 +1776,10 @@ costa
 costa
 couch
 coupe
-coup„
 coups
 coupt
 cours
 court
-co„te
 couzy
 cover
 coxen
@@ -1842,7 +1795,6 @@ crazy
 credo
 creep
 creil
-cr„me
 crews
 crime
 crins
@@ -1939,7 +1891,6 @@ damme
 damon
 dampt
 damys
-dana„
 danas
 dance
 dandy
@@ -2062,7 +2013,6 @@ deins
 deins
 deint
 deira
-de„st
 dejan
 dekan
 deken
@@ -2146,7 +2096,6 @@ devon
 devos
 devos
 dewal
-dew„l
 dewan
 dewis
 dezen
@@ -2249,7 +2198,6 @@ divas
 dixie
 dixit
 dizzy
-djah„
 djaks
 djakt
 djati
@@ -2320,7 +2268,6 @@ domme
 dompt
 domst
 donar
-do„as
 donau
 donck
 donga
@@ -2499,7 +2446,6 @@ dupes
 duplo
 dupon
 duran
-dur„n
 duras
 duren
 durex
@@ -2573,7 +2519,6 @@ echel
 echie
 echos
 echte
-„chte
 echts
 ecoli
 ecrue
@@ -2591,7 +2536,6 @@ edina
 eding
 edins
 edith
-edm„e
 ednas
 edoch
 edson
@@ -2613,7 +2557,6 @@ eenre
 eenum
 eerde
 eerst
-„„rst
 eeweg
 effen
 egaal
@@ -2782,9 +2725,7 @@ engst
 engte
 eniac
 enige
-„nige
 enkel
-„nkel
 enken
 ennas
 ennio
@@ -2792,7 +2733,6 @@ ennis
 ennis
 ennos
 enorm
-„norm
 ensor
 enten
 enter
@@ -2858,9 +2798,7 @@ esens
 eskes
 esman
 esmas
-esm„e
 esmes
-esm„s
 espel
 espen
 espen
@@ -2872,7 +2810,6 @@ essen
 essen
 esser
 essex
-est„e
 esten
 ester
 ester
@@ -3009,7 +2946,6 @@ feces
 fecit
 fedde
 fedor
-fee„n
 feeks
 feest
 feija
@@ -3020,8 +2956,6 @@ feite
 feith
 felix
 felix
-f„lix
-f„lix
 felle
 felst
 femel
@@ -3143,7 +3077,6 @@ fluit
 fluks
 fluks
 fluor
-fl„te
 flyer
 flynn
 fnuik
@@ -3153,8 +3086,6 @@ focke
 focus
 foeke
 foert
-f„hns
-f„hnt
 fokje
 fokke
 fokko
@@ -3268,7 +3199,6 @@ gaast
 gabbe
 gabel
 gabes
-gab„s
 gabis
 gabon
 gabor
@@ -3354,9 +3284,7 @@ gedij
 gedoe
 gedut
 geduw
-ge„bd
 geeft
-ge„gd
 geeks
 geels
 geels
@@ -3364,7 +3292,6 @@ geelt
 geena
 geene
 geens
-ge„nt
 geers
 geers
 geert
@@ -3387,7 +3314,6 @@ geijs
 geike
 geile
 geilt
-ge„nd
 gejat
 gejij
 gejou
@@ -3438,7 +3364,6 @@ gemot
 genas
 genat
 gendt
-g„™ne
 genee
 genen
 gener
@@ -3539,7 +3464,6 @@ gezag
 gezel
 gezer
 gezet
-g„zet
 gezin
 gezon
 ggden
@@ -3563,7 +3487,6 @@ gilde
 gilds
 gilet
 gille
-gill„
 gills
 gilze
 ginas
@@ -3585,7 +3508,6 @@ gitte
 gizeh
 gizmo
 gjalt
-glac„
 gladt
 glane
 glans
@@ -3764,7 +3686,6 @@ guijt
 gulke
 gulle
 gulpt
-g„ºls
 gulst
 gumbs
 gumde
@@ -3817,7 +3738,6 @@ haifa
 haije
 haiku
 haile
-ha„ti
 hajar
 hajer
 hajos
@@ -3930,7 +3850,6 @@ haver
 havik
 havik
 havos
-hawa„
 hawas
 hayat
 haydn
@@ -3954,7 +3873,6 @@ heden
 hedie
 hedys
 heeft
-h„„ft
 heelt
 heere
 heers
@@ -4052,7 +3970,6 @@ hersi
 herst
 hertz
 herve
-herv„
 hesen
 hesen
 heser
@@ -4149,7 +4066,6 @@ hoeve
 hoeve
 hoezo
 hofje
-h„fke
 hofma
 hogen
 hoger
@@ -4237,7 +4153,6 @@ https
 huang
 huber
 hudos
-hu„™t
 hugen
 hugos
 huibs
@@ -4262,7 +4177,6 @@ humos
 humus
 hungs
 hunne
-h„∫ns
 hunze
 hupse
 hupst
@@ -4383,7 +4297,6 @@ immes
 immys
 imode
 imres
-i„aki
 inbed
 inbel
 inbox
@@ -4394,7 +4307,6 @@ inden
 index
 india
 indie
-indi„
 indik
 indis
 indom
@@ -4405,7 +4317,6 @@ indut
 induw
 indys
 ineen
-in„„n
 ineke
 inent
 inert
@@ -4475,15 +4386,12 @@ iraki
 ireen
 irena
 irene
-ir„ne
 irfan
 irina
 irish
 irmas
 isaac
-isa„c
 isaak
-isa„s
 isaks
 ischa
 ishak
@@ -4511,7 +4419,6 @@ ivors
 iwans
 iwema
 izaak
-iza„k
 izaks
 izgst
 izzys
@@ -4535,7 +4442,6 @@ jacos
 jadas
 jaden
 jades
-ja„ls
 jafar
 jagen
 jager
@@ -4544,7 +4450,6 @@ jahwe
 jaime
 jaimy
 jairs
-ja„rs
 jajem
 jakes
 jakke
@@ -4596,7 +4501,6 @@ japon
 jaras
 jared
 jaren
-j„ren
 jarig
 jaris
 jarko
@@ -4659,7 +4563,6 @@ jette
 jetty
 jetze
 jeugd
-jeu„g
 jeukt
 jeune
 jewel
@@ -4706,7 +4609,6 @@ jodys
 joego
 joeke
 joels
-jo„ls
 joelt
 joeps
 joept
@@ -4774,10 +4676,8 @@ jorne
 jorns
 jorre
 jorts
-jos„e
 josef
 joses
-jos„s
 joshi
 josia
 josie
@@ -4879,9 +4779,6 @@ kagen
 kager
 kagie
 kagie
-ka„ns
-ka„ns
-ka„ro
 kajak
 kajas
 kakel
@@ -5286,7 +5183,6 @@ kobbe
 kobes
 kobus
 kobus
-ko„ak
 kocht
 kockx
 kodak
@@ -5296,7 +5192,6 @@ kodde
 koekt
 koele
 koele
-koel„
 koelt
 koene
 koene
@@ -5368,7 +5263,6 @@ korea
 koren
 korff
 korft
-k„r„s
 korps
 korre
 korse
@@ -5608,7 +5502,6 @@ lampe
 lamst
 lanas
 lance
-lanc„
 landa
 lande
 lands
@@ -5627,7 +5520,6 @@ lapis
 lapje
 lapse
 lapte
-laqu„
 laras
 laren
 laren
@@ -5718,7 +5610,6 @@ leijs
 leila
 leins
 leito
-le„to
 leken
 leker
 lekje
@@ -5753,12 +5644,10 @@ lento
 lentz
 lenys
 lenze
-le„≥n
 leona
 leone
 leoni
 leons
-l„ons
 leora
 lepel
 leper
@@ -5808,7 +5697,6 @@ lians
 libby
 libel
 libel
-libi„
 libra
 licet
 licht
@@ -5933,13 +5821,11 @@ logde
 logee
 logen
 loges
-log„s
 logge
 login
 logos
 logos
 logst
-lo„cs
 loipe
 loire
 loken
@@ -6034,7 +5920,6 @@ lucca
 luces
 lucht
 lucia
-luc„a
 lucie
 lucke
 lucks
@@ -6196,7 +6081,6 @@ malki
 malle
 malle
 malls
-malm„
 malou
 malse
 malst
@@ -6235,7 +6119,6 @@ manou
 manou
 manse
 manta
-man„∫
 manus
 manus
 manus
@@ -6257,7 +6140,6 @@ marga
 marge
 margo
 maria
-mar„a
 marie
 marij
 marin
@@ -6282,7 +6164,6 @@ maron
 marot
 marra
 marry
-mars„
 marsh
 marta
 marte
@@ -6767,7 +6648,6 @@ modes
 modus
 moede
 moedt
-moe„r
 moeit
 moeke
 moens
@@ -6775,14 +6655,11 @@ moere
 moers
 moert
 moest
-m„≥„t
 mofje
 mogen
 mogol
 mohan
 moira
-moir„
-mo„se
 moker
 mokka
 mokte
@@ -6810,7 +6687,6 @@ moons
 moord
 moore
 moors
-mop„s
 mopje
 morde
 morel
@@ -6883,7 +6759,6 @@ musab
 musas
 musch
 musea
-mus„e
 music
 musje
 muste
@@ -6921,7 +6796,6 @@ naald
 naams
 naars
 naast
-n„„st
 nabbe
 naber
 nabij
@@ -6933,7 +6807,6 @@ nadal
 nadar
 nadas
 nadat
-n„dat
 naden
 nader
 nader
@@ -6949,11 +6822,9 @@ nagel
 nahar
 nahid
 nahon
-na„ef
 naijl
 nails
 naima
-na„ma
 naims
 najas
 najas
@@ -6996,7 +6867,6 @@ natie
 natje
 natst
 natte
-natt„
 nauru
 nauta
 nauts
@@ -7100,7 +6970,6 @@ niens
 niers
 niest
 niets
-n„„ts
 nieuw
 nigel
 niger
@@ -7124,7 +6993,6 @@ nikos
 nikte
 nilos
 nimby
-n„mes
 ninas
 nines
 ninis
@@ -7149,11 +7017,9 @@ noams
 nobbe
 nobel
 nobel
-n„≥ch
 noden
 nodig
 noels
-no„ls
 noemt
 noers
 noest
@@ -7218,7 +7084,6 @@ noyas
 nozem
 nsber
 nsdap
-nubi„
 nufje
 nuken
 nulde
@@ -7287,7 +7152,6 @@ ogief
 ogier
 ogink
 ohade
-oha„n
 ohmse
 ohrid
 oijen
@@ -7306,7 +7170,6 @@ olavs
 olden
 olegs
 olgas
-oli„n
 olies
 oliet
 olijf
@@ -7324,7 +7187,6 @@ omarm
 omars
 omber
 omdat
-omd„t
 omdoe
 omduw
 omega
@@ -7378,7 +7240,6 @@ onurs
 onwel
 onwil
 onwis
-„≥nze
 onzen
 onzer
 onzes
@@ -7389,7 +7250,6 @@ oogst
 ooien
 ooike
 ooink
-„≥„≥k
 oolde
 oomen
 oonas
@@ -7415,7 +7275,6 @@ opeen
 opeet
 opeis
 opels
-„≥pen
 opens
 opent
 opera
@@ -7535,7 +7394,6 @@ ovaal
 ovale
 ovbus
 ovens
-„≥ver
 overs
 oving
 owens
@@ -7635,15 +7493,12 @@ pasje
 pasma
 pasop
 passe
-pass„
 passt
 pasta
 paste
 patat
 patch
 pater
-pat„s
-path„
 patio
 patje
 patst
@@ -7665,7 +7520,6 @@ pedel
 pedis
 pedos
 pedro
-pee„n
 peele
 peelo
 peels
@@ -7737,7 +7591,6 @@ piais
 piano
 picas
 piece
-pi„ce
 pieck
 pieke
 piekt
@@ -7749,7 +7602,6 @@ piers
 piert
 piest
 pieta
-pi„ta
 piets
 pigge
 pijen
@@ -7787,7 +7639,6 @@ pippa
 pippi
 pipse
 pipst
-piqu„
 pires
 piste
 pitch
@@ -7804,7 +7655,6 @@ plaag
 plaat
 plagt
 plaid
-pla„t
 plakt
 plane
 plank
@@ -7859,15 +7709,12 @@ pluut
 pocht
 pocus
 podia
-po„em
-po„et
 poefs
 poeha
 poeke
 poell
 poels
 poema
-po„ma
 poept
 poert
 poeth
@@ -7889,7 +7736,6 @@ polis
 polis
 polka
 polle
-poll„
 polls
 polly
 polos
@@ -7991,7 +7837,6 @@ print
 prion
 prior
 prius
-priv„
 prman
 proef
 proet
@@ -8199,7 +8044,6 @@ rasch
 raspe
 raspt
 rasse
-rass„
 rasta
 ratel
 raten
@@ -8210,7 +8054,6 @@ ratst
 ratte
 ratum
 raufs
-ra„∫l
 rauls
 rauwe
 ravel
@@ -8237,7 +8080,6 @@ recht
 recta
 recto
 recul
-re„us
 redan
 redas
 redde
@@ -8248,11 +8090,8 @@ redox
 reede
 reeds
 reedt
-re„el
-ree„n
 reeft
 reeks
-re„le
 reent
 reept
 reest
@@ -8297,7 +8136,6 @@ remco
 remde
 remie
 remis
-r„mis
 remix
 remko
 remme
@@ -8306,14 +8144,11 @@ remos
 rempt
 remus
 remys
-r„mys
 renas
 rende
 renee
-ren„e
 renen
 renes
-ren„s
 renet
 renko
 renos
@@ -8348,7 +8183,6 @@ rezen
 rheas
 rhode
 rhona
-rh„ne
 rhoon
 riads
 riagg
@@ -8448,7 +8282,6 @@ roald
 roans
 robbe
 robby
-rob„r
 robes
 robin
 robot
@@ -8506,7 +8339,6 @@ roman
 romas
 romen
 romeo
-rom„o
 romer
 romig
 romke
@@ -8551,15 +8383,12 @@ rorys
 rosan
 rosas
 roses
-ros„s
 rosie
 rosse
 roste
-r„sti
 rotan
 rotem
 roten
-roth„
 rotis
 rotje
 rotor
@@ -8612,7 +8441,6 @@ ruikt
 ruilt
 ruime
 ruimt
-ru„ne
 ruist
 rukte
 rulle
@@ -8668,10 +8496,8 @@ sahar
 sahel
 sahin
 saida
-sa„da
 saidi
 saids
-sa„ds
 saifs
 saijo
 saint
@@ -8707,7 +8533,6 @@ sambo
 sambo
 samen
 samen
-s„men
 samir
 samis
 samme
@@ -8725,10 +8550,7 @@ sanne
 sanny
 sanou
 sante
-sant„
-sant„
 santo
-sa„ne
 saoto
 sapje
 sappe
@@ -8746,7 +8568,6 @@ sasja
 saste
 satan
 sater
-sat„s
 saudi
 sauer
 sauls
@@ -8764,7 +8585,6 @@ scans
 scant
 scart
 scene
-sc„ne
 schab
 schaf
 schal
@@ -8848,7 +8668,6 @@ senas
 sener
 senna
 senne
-se„or
 senta
 seoel
 seoul
@@ -8965,7 +8784,6 @@ simen
 simis
 simon
 simyo
-sina„
 sinan
 sinas
 sinas
@@ -9028,8 +8846,6 @@ skaat
 skald
 skate
 skeet
-ski„n
-ski„r
 skiet
 skiff
 skill
@@ -9088,7 +8904,6 @@ sloeg
 sloep
 sloep
 sloft
-sl„jd
 slokt
 slome
 slomp
@@ -9256,7 +9071,6 @@ soort
 sopje
 soppe
 sopte
-s„ren
 sores
 sorry
 sosef
@@ -9399,7 +9213,6 @@ steil
 stein
 stekt
 stele
-st„le
 stelp
 stelt
 stemt
@@ -9412,7 +9225,6 @@ stens
 stent
 steps
 stept
-st„re
 sterf
 sterk
 stern
@@ -9521,7 +9333,6 @@ stylo
 suave
 sucre
 sudan
-su„de
 suffe
 sufst
 sufte
@@ -9579,7 +9390,6 @@ symon
 syrah
 syrah
 syria
-syri„
 sytse
 sytze
 taaie
@@ -9681,7 +9491,6 @@ tater
 tates
 tatra
 tatum
-taug„
 taupe
 taxis
 taxol
@@ -9690,7 +9499,6 @@ taxus
 tbalk
 tbser
 tdose
-tea„n
 teake
 teams
 teddy
@@ -9708,7 +9516,6 @@ tefaf
 tefal
 tegel
 tegen
-t„gen
 teint
 teken
 teken
@@ -9728,7 +9535,6 @@ temen
 temer
 temet
 temme
-temp„
 tempo
 temse
 tenen
@@ -9783,7 +9589,6 @@ thema
 theos
 thera
 these
-th„ta
 theun
 thiel
 thies
@@ -9890,7 +9695,6 @@ titia
 titis
 titus
 titus
-tjab„
 tjalk
 tjalk
 tjerk
@@ -9908,7 +9712,6 @@ tobes
 tobey
 tobis
 tobys
-t„≥ch
 tocht
 toddy
 toean
@@ -9936,9 +9739,6 @@ tolen
 tolkt
 tomas
 tomas
-tom„s
-tom„s
-tom„s
 tombe
 tomen
 tommy
@@ -9997,7 +9797,6 @@ tover
 traaf
 traag
 traan
-trac„
 track
 tract
 tracy
@@ -10205,7 +10004,6 @@ uniek
 unies
 units
 unity
-univ„
 unzip
 uppen
 upper
@@ -10213,7 +10011,6 @@ uppie
 uraan
 urban
 urban
-„∫ren
 ureum
 urine
 uriot
@@ -10359,7 +10156,6 @@ vicks
 vicky
 video
 vides
-vid„s
 viert
 viest
 viets
@@ -10393,7 +10189,6 @@ virgo
 virus
 visch
 visee
-vis„e
 visie
 visje
 vista
@@ -10502,7 +10297,6 @@ voske
 vosse
 votum
 voute
-vo„te
 vouwt
 vozen
 vozer
@@ -10513,7 +10307,6 @@ vrank
 vrede
 vrees
 vreet
-vr„„t
 vreze
 vriem
 vries
@@ -10666,12 +10459,9 @@ wedde
 weden
 weder
 weeda
-wee„n
-wee„r
 weeft
 weegs
 weegt
-wee„g
 weeks
 weekt
 weens
@@ -10711,7 +10501,6 @@ welen
 welft
 welig
 welke
-w„lke
 welks
 welkt
 welle
@@ -10728,7 +10517,6 @@ wendy
 wenen
 wenen
 wener
-weng„
 wenkt
 wenst
 wenum
@@ -10744,7 +10532,6 @@ wesel
 weser
 wessi
 weten
-w„ten
 wetje
 wette
 weurt
@@ -10789,7 +10576,6 @@ wiese
 wieze
 wigge
 wigje
-wii„n
 wijde
 wijds
 wijdt
@@ -10912,7 +10698,6 @@ wulps
 wurgt
 wurmt
 wurtz
-w„ºst
 wuyts
 wvstr
 wvttk
@@ -11017,7 +10802,6 @@ zahir
 zahra
 zaidi
 zaids
-za„re
 zaken
 zakis
 zakje
@@ -11025,8 +10809,6 @@ zakte
 zalen
 zalft
 zalig
-z„lig
-zaln„
 zaman
 zambo
 zamel
@@ -11051,7 +10833,6 @@ zeboe
 zebra
 zeden
 zedig
-zee„n
 zeeft
 zeels
 zeelt
@@ -11073,12 +10854,10 @@ zeilt
 zeist
 zeken
 zeker
-z„ker
 zelda
 zelem
 zelen
 zelfs
-z„lfs
 zelis
 zelve
 zemel
@@ -11158,7 +10937,6 @@ zoent
 zoete
 zoets
 zoeys
-zo„ys
 zogen
 zohra
 zojas
