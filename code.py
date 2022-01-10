@@ -5,7 +5,7 @@ for x in wordsFile:
     words.append(x.strip())
     #print(x.strip())
 
-print("syntax: \nletters in correct position with _ for unknown letters, known letters, wrong letters")
+print("syntax: \nletters in correct position with _ for unknown letters, known letters, wrong letters\nWords are in English")
 print("possible first guesses: panic, morel, study")
 print("please enter 'exit' when done.")
 print(len(words))
@@ -23,7 +23,16 @@ while True:
         wordsFile = open("words.txt", "r")
         for y in wordsFile:
             words.append(y.strip())
+        print("wordsList reset! Words are in English")
+        print(len(words))
+        continue
+    elif querry == 'nederlands':
+        words.clear()
+        wordsFile = open("woorden.txt", "r")
+        for y in wordsFile:
+            words.append(y.strip())
         print("wordsList reset!")
+        print('woorden zijn nu in het nederlands!')
         print(len(words))
         continue
         
@@ -64,6 +73,5 @@ while True:
             elif words[x - wordIndex][y] != querry[0][y]:
                 words.pop(x - wordIndex)
                 break
-
 
     print(len(words))
